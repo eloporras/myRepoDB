@@ -1,0 +1,8 @@
+edu\gatech\cs6400\team81\dao\FoodItemDAOImplTest.class
+edu\gatech\cs6400\team81\dao\ItemDAOImplTest.class
+edu\gatech\cs6400\team81\dao\ClientServiceDAOImplTest.class
+edu\gatech\cs6400\team81\dao\FoodBankDAOImplTest.class
+edu\gatech\cs6400\team81\model\FoodItemCategoryTest.class
+edu\gatech\cs6400\team81\dao\LogEntryDAOImplTest.class
+edu\gatech\cs6400\team81\dao\ShelterDAOImplTest.class
+edu\gatech\cs6400\team81\dao\WaitListDAOImplTest.class
