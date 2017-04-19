@@ -1,3 +1,4 @@
+edu\gatech\cs6400\team81\web\ClientServlet.class
 edu\gatech\cs6400\team81\web\WebReportServlet.class
 edu\gatech\cs6400\team81\business\MealsManager.class
 edu\gatech\cs6400\team81\web\ItemServlet.class
@@ -8,6 +9,7 @@ edu\gatech\cs6400\team81\business\ItemFactory$1.class
 edu\gatech\cs6400\team81\web\ViewFoodBankItemsServlet$MATCHTYPE.class
 edu\gatech\cs6400\team81\web\ViewFoodBankItemsServlet$TIMECOMPARE.class
 edu\gatech\cs6400\team81\web\RequestUtils.class
+edu\gatech\cs6400\team81\web\AddClientServlet.class
 edu\gatech\cs6400\team81\business\ApplicationException.class
 edu\gatech\cs6400\team81\web\SecurityFilter.class
 edu\gatech\cs6400\team81\web\ViewFoodBankItemsServlet$CONNECTOR.class
@@ -17,7 +19,11 @@ edu\gatech\cs6400\team81\business\ServiceFactory$1.class
 edu\gatech\cs6400\team81\api\BulkUpload.class
 edu\gatech\cs6400\team81\api\UserService.class
 edu\gatech\cs6400\team81\business\ItemManager.class
+edu\gatech\cs6400\team81\web\MakeFoodBankRequestServlet.class
+edu\gatech\cs6400\team81\web\ClientServlet$CONNECTOR.class
+edu\gatech\cs6400\team81\web\ClientServlet$MATCHTYPE.class
 edu\gatech\cs6400\team81\web\ViewFoodBankItemsServlet.class
+edu\gatech\cs6400\team81\web\ViewLogEntryServlet.class
 edu\gatech\cs6400\team81\business\ServiceManager$1.class
 edu\gatech\cs6400\team81\web\ServiceServlet.class
 edu\gatech\cs6400\team81\web\HomeServlet.class
@@ -26,6 +32,7 @@ edu\gatech\cs6400\team81\web\BaseServlet.class
 edu\gatech\cs6400\team81\web\ShelterServlet.class
 edu\gatech\cs6400\team81\api\WebReports.class
 edu\gatech\cs6400\team81\business\ItemFactory.class
+edu\gatech\cs6400\team81\web\RequestsServlet.class
 edu\gatech\cs6400\team81\business\ServiceFactory.class
 edu\gatech\cs6400\team81\web\SiteServlet.class
 edu\gatech\cs6400\team81\api\FoodBankService.class

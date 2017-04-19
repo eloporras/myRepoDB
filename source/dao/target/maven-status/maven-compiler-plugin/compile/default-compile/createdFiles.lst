@@ -1,9 +1,12 @@
 edu\gatech\cs6400\team81\dao\FoodItemSQL.class
+edu\gatech\cs6400\team81\dao\RetrieveFoodBankItemDataDAO.class
 edu\gatech\cs6400\team81\model\FoodItemCategory.class
 edu\gatech\cs6400\team81\model\RequestedItem.class
+edu\gatech\cs6400\team81\dao\RetrieveFoodBankItemDataDAOImpl.class
 edu\gatech\cs6400\team81\model\UserBuilder.class
 edu\gatech\cs6400\team81\model\RequestedItemStatus.class
 edu\gatech\cs6400\team81\model\Site.class
+edu\gatech\cs6400\team81\dao\Grant_DenyFoodBankRequestSQL.class
 edu\gatech\cs6400\team81\dao\RequestedItemDAOImpl.class
 edu\gatech\cs6400\team81\dao\FoodPantryDAO.class
 edu\gatech\cs6400\team81\dao\AccountDAO.class
@@ -18,6 +21,7 @@ edu\gatech\cs6400\team81\model\SupplyItem.class
 edu\gatech\cs6400\team81\dao\FoodItemDAOImpl.class
 edu\gatech\cs6400\team81\dao\SoupKitchenDAOImpl.class
 edu\gatech\cs6400\team81\dao\ClientServiceDAOImpl.class
+edu\gatech\cs6400\team81\dao\Grant_DenyFoodBankRequestDAO.class
 edu\gatech\cs6400\team81\dao\LogEntryDAO.class
 edu\gatech\cs6400\team81\dao\SiteDAO.class
 edu\gatech\cs6400\team81\model\SupplyItemCategory.class
@@ -28,6 +32,7 @@ edu\gatech\cs6400\team81\model\SoupKitchen.class
 edu\gatech\cs6400\team81\dao\ShelterSQL.class
 edu\gatech\cs6400\team81\model\ItemStorageType.class
 edu\gatech\cs6400\team81\dao\FoodBankDAOImpl.class
+edu\gatech\cs6400\team81\dao\MakeFoodBankRequestDAOImpl.class
 edu\gatech\cs6400\team81\model\Shelter.class
 edu\gatech\cs6400\team81\dao\FoodBankSQL.class
 edu\gatech\cs6400\team81\model\BasePOJO.class
@@ -37,6 +42,7 @@ edu\gatech\cs6400\team81\dao\BaseDAO.class
 edu\gatech\cs6400\team81\dao\AccountDAOImpl.class
 edu\gatech\cs6400\team81\model\WaitList.class
 edu\gatech\cs6400\team81\dao\WaitListDAOImpl.class
+edu\gatech\cs6400\team81\dao\MakeFoodBankRequestSQL.class
 edu\gatech\cs6400\team81\dao\UserDAOImpl.class
 edu\gatech\cs6400\team81\dao\ClientServiceDAO.class
 edu\gatech\cs6400\team81\dao\ClientSQL.class
@@ -44,10 +50,12 @@ edu\gatech\cs6400\team81\dao\SupplyItemDAO.class
 edu\gatech\cs6400\team81\model\User.class
 edu\gatech\cs6400\team81\dao\FoodItemDAO.class
 edu\gatech\cs6400\team81\model\ASACSService.class
+edu\gatech\cs6400\team81\dao\RetrieveFoodBankItemDataSQL.class
 edu\gatech\cs6400\team81\model\Account.class
 edu\gatech\cs6400\team81\dao\ItemDAO.class
 edu\gatech\cs6400\team81\dao\ItemDAOImpl.class
 edu\gatech\cs6400\team81\dao\SiteSQL.class
+edu\gatech\cs6400\team81\dao\Grant_DenyFoodBankRequestDAOImpl.class
 edu\gatech\cs6400\team81\dao\LogEntrySQL.class
 edu\gatech\cs6400\team81\model\FoodPantry.class
 edu\gatech\cs6400\team81\dao\RequestedItemSQL.class
@@ -68,6 +76,7 @@ edu\gatech\cs6400\team81\dao\SupplyItemDAOImpl.class
 edu\gatech\cs6400\team81\dao\UserDAO.class
 edu\gatech\cs6400\team81\dao\AccountSQL.class
 edu\gatech\cs6400\team81\model\ItemCategory.class
+edu\gatech\cs6400\team81\dao\MakeFoodBankRequestDAO.class
 edu\gatech\cs6400\team81\dao\ClientServiceSQL.class
 edu\gatech\cs6400\team81\model\LogEntry.class
 edu\gatech\cs6400\team81\dao\ItemSQL.class

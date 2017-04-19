@@ -6,7 +6,7 @@
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin"/>
     <property name="java.vm.version" value="25.121-b13"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\elopo\Documents\GitHub\6400Spring17Team081\source"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\elopo\Documents\GitHub\6400Spring17Team081\Phase 3\source"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\elopo\Documents\GitHub\6400Spring17Team081\source"/>
+    <property name="user.dir" value="C:\Users\elopo\Documents\GitHub\6400Spring17Team081\Phase 3\source"/>
     <property name="java.runtime.version" value="1.8.0_121-b13"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\endorsed"/>
@@ -65,14 +65,14 @@
   <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testRemoveService_CantRemoveFinalService" time="0.017"/>
   <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testGetServicesForSite" time="0.004"/>
   <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testRemoveService_FoodPantry" time="0.001"/>
-  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testSaveService_FoodPantry" time="0.005"/>
-  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testGetBySiteId_SoupKitchen" time="0"/>
-  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testSaveService_Shelter" time="0.006"/>
+  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testSaveService_FoodPantry" time="0.004"/>
+  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testGetBySiteId_SoupKitchen" time="0.001"/>
+  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testSaveService_Shelter" time="0.007"/>
   <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testGetBySiteId_FoodPantry" time="0"/>
-  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testRemoveService_SoupKitchen" time="0.001"/>
+  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testRemoveService_SoupKitchen" time="0"/>
   <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testGetBySiteId_Shelter" time="0"/>
-  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testSaveService_FoodBank" time="0"/>
-  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testSaveService_SoupKitchen" time="0.005"/>
-  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testRemoveService_FoodBank" time="0"/>
-  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testRemoveService_Shelter" time="0.001"/>
+  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testSaveService_FoodBank" time="0.001"/>
+  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testSaveService_SoupKitchen" time="0.004"/>
+  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testRemoveService_FoodBank" time="0.001"/>
+  <testcase classname="edu.gatech.cs6400.team81.business.ServiceManagerTest" name="testRemoveService_Shelter" time="0"/>
 </testsuite>
